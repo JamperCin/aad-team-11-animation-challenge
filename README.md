@@ -14,8 +14,8 @@
 
 ## ❄️ Libraies Used:
   * [OkHttp - Square Open Source](https://square.github.io/okhttp/)
-  * [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
-
+  * [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back.
+  
 ## ❄️ Download:
 You can download the Apk and screenshots from [Here](./download).
 
